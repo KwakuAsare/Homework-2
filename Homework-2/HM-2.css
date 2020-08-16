@@ -1,0 +1,26 @@
+
+body {
+    background-color: cadetblue;
+}
+
+
+
+.navbar-brand:hover {
+    background-color: darkorchid;
+
+}
+
+.cont {
+    margin-top: 20px;
+    width: 50%;
+    background-color: darkgrey;
+}
+
+input[type="text"], 
+input[type="email"] {
+    display: block;
+    box-sizing: border-box;
+    padding: 0 10px;
+    margin-top: 10px;
+    
+}
